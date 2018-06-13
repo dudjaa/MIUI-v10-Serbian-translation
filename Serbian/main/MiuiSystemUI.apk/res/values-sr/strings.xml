@@ -179,7 +179,6 @@
   <string name="status_bar_network_flow_limit">"   Месечно ограничење: %1$s"</string>
   <string name="status_bar_network_flow_purchase">"   Купљено &gt;"</string>
   <string name="status_bar_network_flow_today">Данас: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">"Нема недавних апликација"</string>
   <string name="status_bar_notification_inspect_item_title">Информације о апликацији</string>
   <string name="status_bar_recent_guide_all">"Повуците горе за затварање
