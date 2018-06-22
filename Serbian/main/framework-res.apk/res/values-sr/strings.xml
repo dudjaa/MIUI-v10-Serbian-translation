@@ -438,7 +438,6 @@
   <string name="kg_reordering_delete_drop_target_text">Уклони</string>
   <string name="kg_sim_pin_instructions">Унесите PIN SIM картице</string>
   <string name="kg_sim_unlock_progress_dialog_message">Откључавање SIM картице…</string>
-  <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Покушајте поново за %1$d секунде(и).</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Унели сте лозинку неисправно %d пута. 
 
