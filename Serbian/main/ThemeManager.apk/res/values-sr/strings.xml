@@ -155,7 +155,6 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s тема</string>
   <string name="resource_detail_recommend_other_themes">Корисницима се још увек свиђа</string>
   <string name="resource_detail_update_log_title">Ажурирања</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Детаљи %1$s</string>
   <string name="resource_download">Преузимање</string>
   <string name="resource_download_notification_content">Додирните за преглед.</string>
@@ -212,7 +211,6 @@
   <string name="resource_pack_price_info">Оригинална цена: %1$s</string>
   <string name="resource_pack_warning">"Већ сте купили %1$d компоненте ове теме. Јефтиније је ако купите остале компоненте појединачно."</string>
   <string name="resource_present">Поклон</string>
-  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Бесплатно</string>
   <string name="resource_price_unit">Mi Кредита</string>
   <string name="resource_purchase_getting_order">Преузимам информацију поруџбине…</string>
