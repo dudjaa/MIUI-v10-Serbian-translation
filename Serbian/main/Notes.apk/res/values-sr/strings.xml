@@ -61,7 +61,6 @@
   <string name="notealert_enter">Поглед</string>
   <string name="notealert_ok">"Игнориши"</string>
   <string name="notelist_menu_new">Додај белешку</string>
-  <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Подсетник белешке</string>
   <string name="permdesc_accessNote">Злонамерне апликације могу то искористити за приступ вашим личним подацима."</string>
   <string name="permlab_accessNote">Приступите вашим белешкама</string>
