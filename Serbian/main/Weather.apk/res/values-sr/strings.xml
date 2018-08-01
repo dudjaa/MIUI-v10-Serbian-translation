@@ -69,7 +69,6 @@
      <string name="daily_forecast_detail_date">d/M</string>
      <string name="daily_forecast_no_data">"Не могу добити информације о времену
 Повуците доле да освежите или проверите мрежна подешавања"</string>
-     <string name="data_source_timezone">GMT %1$s</string>
      <string name="deleting">Брисање…</string>
      <string name="description_author">Аутор</string>
      <string name="description_designer">Дизајнер</string>
